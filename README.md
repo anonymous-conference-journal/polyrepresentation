@@ -15,7 +15,7 @@ For enference select **inference.ipynb**
 
 |  | **Siamese embedding, Tabular data, Segmentation features** | **Siamese embedding, Segmentation features** | **Tabular data, Segmentation features** | **Siamese embedding, Tabular data** | **Segmentation features** | **Siamese embedding** | **Tabular data** |
 |---|---|---|---|---|---|---|---|
-| accuracy | 0,391 | e**0,402** | 0,384 | 0,353 | 0,394 | 0,348 | 0,222 |
+| accuracy | 0,391 | **0,402** | 0,384 | 0,353 | 0,394 | 0,348 | 0,222 |
 | balanced acc | 0,38 |**0,386** | 0,369 | 0,348 | 0,385 | 0,329 | 0,211 |
 | f1 macro | 0,379 | 0,377 | 0,369 | 0,347 |**0,382** | 0,319 | 0,2 |
 | f1 micro | 0,391 |**0,402** | 0,384 | 0,353 | 0,394 | 0,348 | 0,222 |

@@ -4,10 +4,11 @@
 git clone https://github.com/anonymous-conference-journal/polyrepresentation.git \
 cd polyrepresentation \
 \
-pip install -r requirements.txt
+pip install -r **requirements.txt**
 
-For training select **training.ipynb** \
-For enference select **inference.ipynb**
+For training select: **training.ipynb** \
+For inference select: **inference.ipynb** \
+Pretrained model: **model_xgb_estimator.json**
 
 ## Results of polyrepresentation learning
 

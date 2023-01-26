@@ -1,4 +1,4 @@
-# Multi-task X-ray transferable polyrepresentation learning
+# X-ray transferable polyrepresentation learning
 
 ## How to run the code
 git clone https://github.com/anonymous-conference-journal/polyrepresentation.git \
